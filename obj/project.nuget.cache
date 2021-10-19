@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QxNzJd9gXks8yU/jcdV2E8QdqWBOj2AstMbwqjQg8tOiBO2EYWjvEm4teiLyc7unP2iXgT/9g/9NgkNz6NlaaA==",
+  "success": true,
+  "projectFilePath": "/Users/amal/Documents/Dev/VS/rest/rest/rest.csproj",
+  "expectedPackageFiles": [
+    "/Users/amal/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/amal/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/amal/.nuget/packages/swashbuckle.aspnetcore/6.2.2/swashbuckle.aspnetcore.6.2.2.nupkg.sha512",
+    "/Users/amal/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.2/swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "/Users/amal/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.2/swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
+    "/Users/amal/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.2/swashbuckle.aspnetcore.swaggerui.6.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
